@@ -1,0 +1,8 @@
+[
+    {
+        "type": "info",
+        "title": "Control Center Rollback Feature",
+        "message": "You can now easily stop a locally running or locally overridden plugin from the Control Center. Just press the arrow button to the left of the version column and the plugin will be restored to your company's default after a refresh.",
+        "dateAdded": "2017-05-04"
+    }
+]
