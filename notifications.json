@@ -1,8 +1,14 @@
 [
     {
+        "type": "discovery",
+        "title": "Progress Invoicing is here",
+        "message": "You can now easily invoice for the project you are working on as you progrss through it. Isn't that AWESOME? Give it up for INTUIT",
+        "dateAdded": "2017-06-08"
+    },
+    {
         "type": "info",
-        "title": "Control Center Rollback Feature",
-        "message": "You can now easily stop a locally running or locally overridden plugin from the Control Center. Just press the arrow button to the left of the version column and the plugin will be restored to your company's default after a refresh.",
-        "dateAdded": "2017-05-04"
+        "title": "Progress Reports are on fire",
+        "message": "Find out if you are doing good using the reports. We will help you easily figure how much profit you are making. Yeah, we know. We are Awesome",
+        "dateAdded": "2017-06-07"
     }
 ]
