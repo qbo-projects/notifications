@@ -1,11 +1,13 @@
 [
     {
+        "id": 2,
         "type": "discovery",
         "title": "Progress Invoicing is here",
         "message": "You can now easily invoice for the project you are working on as you progrss through it. Isn't that AWESOME? Give it up for INTUIT",
         "dateAdded": "2017-06-08"
     },
-    {
+    {   
+        "id": 1,
         "type": "info",
         "title": "Project Reports are on fire",
         "message": "Find out if you are doing good using the reports. We will help you easily figure how much profit you are making. Yeah, we know. We are Awesome",
