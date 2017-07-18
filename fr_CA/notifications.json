@@ -2,16 +2,16 @@
     {
         "id": 2,
         "type": "discovery",
-        "title": "Progress Invoicing is here",
-        "message": "You can now easily invoice for the project you are working on as you progrss through it. Isn't that AWESOME? Give it up for INTUIT",
+        "title": "La facturation Progress est ici",
+        "message": "Vous pouvez maintenant facturer facilement le projet sur lequel vous travaillez au fur et à mesure que vous avancez. N'est-ce pas génial? Abandonnez-vous pour INTUIT",
         "dateAdded": "2017-06-08",
         "hidden": false
     },
     {   
         "id": 1,
         "type": "info",
-        "title": "Project Reports are on fire",
-        "message": "Find out if you are doing good using the reports. We will help you easily figure how much profit you are making. Yeah, we know. We are Awesome",
+        "title": "Les rapports de projet sont en feu",
+        "message": "Découvrez si vous faites bien en utilisant les rapports. Nous vous aiderons à déterminer facilement le bénéfice que vous faites. Ouais, nous le savons. Nous sommes géniaux",
         "dateAdded": "2017-06-07",
         "hidden": false
     }
